@@ -34,6 +34,8 @@ To use ZipLoc effectively, follow the workflow:
 3. **Use LocViewFinalAQI** to produce pollutant level graphs.
 4. Optionally, run **LocView4** for enhanced graphical outputs.
 
+**NOTE: If you can't find the output files, check "MACINTOSH HD / USERS / YOUR USER NAME" - I think that's where it saves all this stuff, let me know if it's not working. It's still a little confusing even for me but it works! Keep in mind, the files from ZipLoc4 do not export until you type EXIT. Remember to type EXIT before closing the window to ensure you get your log files correctly. **
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
