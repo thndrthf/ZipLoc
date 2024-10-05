@@ -34,7 +34,7 @@ To use ZipLoc effectively, follow the workflow:
 3. **Use LocViewFinalAQI** to produce pollutant level graphs.
 4. Optionally, run **LocView4** for enhanced graphical outputs.
 
-**NOTE: If you can't find the output files, check "MACINTOSH HD / USERS / YOUR USER NAME" - I think that's where it saves all this stuff, let me know if it's not working. It's still a little confusing even for me but it works! Keep in mind, the files from ZipLoc4 do not export until you type EXIT. Remember to type EXIT before closing the window to ensure you get your log files correctly. **
+**NOTE: If you can't find the output files, check "MACINTOSH HD / USERS / YOUR USER NAME" - It's a little confusing at first, even for me, but it works! Keep in mind, the files from ZipLoc4 do not export until you type EXIT. Remember to type EXIT before closing the window to ensure you get your log files correctly. If you want to generate a new graphical output delete the log files or move them, and generate new data. If there are entries in the data that cause the legend to go off the page you can change the Location Name in the text file, that's almost always what is too long, especially if it includes the full address or name of a State Park for example. Let me know if you find any interesting bugs.**
 
 ## License
 
